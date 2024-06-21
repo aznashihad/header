@@ -1,0 +1,23 @@
+.header-wrapper{
+    padding: 20px;
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo
+{
+    color: aqua;
+    text-transform: uppercase;
+}
+.header-wrapper ul{
+    list-style: none;
+    display:flex;
+    gap: 20PX;
+}
+.header-wrapper ul li{
+    text-transform: uppercase;
+     font-size: 13px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: 900;
+}
